@@ -1,0 +1,11 @@
+{
+  "name": "Node.js Sample",
+  "description": "A barebones Node.js app using Express",
+  "repository": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+  "keywords": ["node", "express", "static"]
+    "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}

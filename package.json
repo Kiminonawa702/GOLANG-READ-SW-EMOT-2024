@@ -1,0 +1,16 @@
+{
+  "name": "ReadSW",
+  "version": "1.0.0",
+  "description": "AAMAK",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js --pairing-code"
+  },
+  "author": "WILY",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "github:WhiskeySockets/Baileys",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
